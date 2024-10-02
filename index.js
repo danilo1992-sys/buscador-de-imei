@@ -1,5 +1,4 @@
 document.getElementById("form")
-document.getElementById("img")
 const OPTIONS = {
   method: 'GET',
   headers: {
